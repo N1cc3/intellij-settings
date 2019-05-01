@@ -1,0 +1,65 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="9.5.0" last-modified="1517424772000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CUSTOMIZE_ACTIONS" value="context&#10;sear&#10;search&#10;google" />
+    <property name="ColorChooser.RecentColors" value="188-204-63-255,,,117-201-204-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.3831554" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.8595041" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="XSLT Stylesheet" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="refactor&#10;variable&#10;back&#10;comment&#10;reformat" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="sbt&#10;kotlin&#10;git" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="context menu&#10;code folding&#10;format&#10;end of file&#10;new line" />
+    <property name="TrendingPluginsSearchHistory" value="line sorter&#10;eslint" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="evlsprt3.191" value="19" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AppData/Roaming/npm/eslint.cmd&#10;C:/Users/Nicce/AppData/Roaming/npm/eslint&#10;C:/Users/Nicce/AppData/Roaming/npm/node_modules/eslint/bin/eslint.js&#10;C:/Users/Nicce/murkku&#10;C:/Users/Nicce/scheduler&#10;C:/Users/Nicce/scheduler/front&#10;C:/Users/Nicce/kotlin-fullstack-sample&#10;C:/Users/Nicce/multi-module&#10;C:/Users/Nicce/triggerarena/client&#10;C:/Users/Nicce/gs-messaging-stomp-websocket/complete&#10;C:/Users/Nicce/gs-messaging-stomp-websocket&#10;C:/Users/Nicce/medieval-game&#10;C:/Users/Nicce/turn-based-minigame&#10;C:/Users/Nicce/studio2-project-tbs&#10;C:/Users/Nicce/nqueens-kotlin-optaplanner&#10;C:/Users/Nicce/trigger-arena-2/client&#10;C:/Users/Nicce/trigger-arena-2/server&#10;C:/Users/Nicce/trigger-arena-2/test-app&#10;C:/Users/Nicce/test-app&#10;C:/Program Files (x86)/gradle-4.7&#10;C:/Program Files/Java/jdk1.8.0_162&#10;C:/Users/Nicce/react-kotlin-app" />
+    <property name="file.gist.reindex.count" value="46061" />
+    <property name="fileTypeChangedCounter" value="7" />
+    <property name="installed.kotlin.plugin.version" value="1.3.31-release-IJ2019.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1556717372278" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.31-release-IJ2019.1-1:2019-04-25" />
+    <property name="last.imported.location" value="$USER_HOME$/scheduler/front" />
+    <property name="last.used.gradle.home" value="C:/Program Files (x86)/gradle-4.7" />
+    <property name="lastTip" value="89" />
+    <property name="param.hints.settings.last.edited.language" value="kotlin" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Gradle" />
+    <property name="scala.last.updated" value="1537812899405" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="selected.color.option.type" value="KOTLIN_PACKAGE_FUNCTION_CALL" />
+    <property name="settings.code.style.selected.tab.JAVA" value="JavaDoc" />
+    <property name="settings.code.style.selected.tab.kotlin" value="Wrapping and Braces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>
