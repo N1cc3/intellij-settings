@@ -12,6 +12,7 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
     <option name="CONTINUATION_INDENT_IN_PARAMETER_LISTS" value="false" />
     <option name="CONTINUATION_INDENT_IN_ARGUMENT_LISTS" value="false" />
+    <option name="ALLOW_TRAILING_COMMA" value="true" />
   </JetCodeStyleSettings>
   <codeStyleSettings language="Scala">
     <indentOptions>
