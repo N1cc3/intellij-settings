@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="front" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:/Program Files/nodejs/npm/npm.exe" />
-      <option name="PARAMETERS" value="run start" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/rust-web/front" />
-    </exec>
-  </tool>
-</toolSet>
